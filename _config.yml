@@ -13,9 +13,9 @@ title                    : "Junteng Liu"
 title_separator          : "-"
 name                     : &name "Junteng Liu"
 description              : &description "PhD Candidate at HKUST NLP Group | NLP & Machine Learning Researcher"
-url                      : https://bugmaker00.github.io # The base hostname & protocol for your site
-baseurl                  : "" # root-level GitHub Pages site; no subpath needed
-repository               : "bugmaker00/bugmaker00.github.io"
+url                      : https://mcpmark-eval-1031.github.io/bugmaker00.github.io # The base hostname & protocol for your site
+baseurl                  : "/bugmaker00.github.io" # the subpath of your site
+repository               : "mcpmark-eval-1031/bugmaker00.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Junteng Liu"
-  pronouns         : # example: "she/her"
+  pronouns         : "he/him"
   bio              : "PhD Candidate at HKUST NLP Group, advised by Prof. Junxian He"
   location         : "Hong Kong, China"
   employer         : "Hong Kong University of Science and Technology"
@@ -109,7 +109,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
