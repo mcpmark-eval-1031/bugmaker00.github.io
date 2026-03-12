@@ -11,28 +11,36 @@ redirect_from:
 
 Education
 ======
-* **Ph.D. in Computer Science**, Hong Kong University of Science and Technology, 2024-Present (expected)
-* **B.Eng.**, Shanghai Jiao Tong University, 2020-2024 (Graduated with Zhiyuan Honor Scholarship)
+* **Ph.D. in Computer Science** (2024 - Present)  
+  Hong Kong University of Science and Technology (HKUST)  
+  Advisor: Prof. Junxian He
 
-Work experience
+* **B.Eng.** (2020 - 2024)  
+  Shanghai Jiao Tong University (SJTU)  
+  Zhiyuan College
+
+Research Experience
 ======
 * **Research Intern**, MINIMAX (February 2025 - Present)
-  * Conducting research on large language models and reasoning.
-  * Supervisor: N/A
+  * Research on large language models and reasoning capabilities.
 
 * **Research Intern**, Tencent WXG (June 2024 - September 2024)
-  * Worked on vision-language models for chart understanding.
-  * Supervisor: Zifei Shan
+  * Research on vision-language models for chart understanding.
+  * Mentor: Zifei Shan
 
 * **Research Intern**, Shanghai AI Lab (June 2023 - December 2023)
-  * Research on truthfulness and interpretability of LLMs.
-  * Supervisor: Prof. Yu Cheng
+  * Research on truthfulness and interpretability of large language models.
+  * Mentor: Prof. Yu Cheng
+
+Awards and Honors
+======
+* **Zhiyuan Honor Scholarship**, Shanghai Jiao Tong University
 
 Skills
 ======
-* **Natural Language Processing**: Large Language Models, Vision-Language Models, Logical Reasoning, Hallucination Mitigation
-* **Machine Learning**: Reinforcement Learning, Representation Learning, Model Evaluation
-* **Programming**: Python, PyTorch, JAX, Git, LaTeX
+* **Natural Language Processing**: Large Language Models, Vision-Language Models, Logical Reasoning, Hallucination Mitigation, Interpretability
+* **Machine Learning**: Reinforcement Learning, Representation Learning, Parameter-Efficient Fine-Tuning
+* **Programming**: Python, PyTorch, Git, LaTeX
 * **Languages**: Chinese (Native), English (Fluent)
 
 Publications
@@ -53,7 +61,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Service and leadership
+Service
 ======
-* Reviewer for top-tier conferences (e.g., EMNLP, ICML, NeurIPS)
-* Volunteer for academic community events
+* Reviewer for top-tier NLP and ML venues
