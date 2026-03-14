@@ -9,35 +9,37 @@ redirect_from:
 
 I am a first-year PhD candidate at the [HKUST NLP Group](https://nlp.hkust.edu.hk/), [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), advised by [Prof. Junxian He](https://jxhe.github.io/). I received my B.Eng. from [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/) in June 2024, where I was a member of Zhiyuan College and received the **Zhiyuan Honor Scholarship**.
 
-I am also currently a **Research Intern** at [MINIMAX](https://www.minimax.com/) (February 2025 - Present).
+I am currently a **Research Intern** at [MINIMAX](https://www.minimax.com/) (February 2025 – Present).
 
 My research focuses on **Natural Language Processing** and **Machine Learning**, with the goal of building more capable, truthful, and interpretable language models.
 
 ## Research Interests
 
-- **LLM Reasoning and Reinforcement Learning** -- synthesizing verifiable reasoning data and leveraging RL to improve LLM reasoning capabilities
-- **Hallucination in Vision-Language Models (VLMs)** -- understanding perception bottlenecks and developing mitigation strategies in multimodal models
-- **LLM Truthfulness and Interpretability** -- probing and exploiting the internal representations of large language models for truthfulness signals
+- **LLM Reasoning and Reinforcement Learning** — synthesizing verifiable reasoning data and leveraging RL to improve LLM reasoning capabilities
+- **Hallucination in Vision-Language Models (VLMs)** — understanding perception bottlenecks and developing mitigation strategies in multimodal models
+- **LLM Truthfulness and Interpretability** — probing and exploiting the internal representations of large language models for truthfulness signals
 
 ## Education
 
-- **Ph.D. in Computer Science** (2024 - Present)  
-  Hong Kong University of Science and Technology (HKUST)  
+- **Ph.D. in Computer Science** (2024 – Present)  
+  Hong Kong University of Science and Technology (HKUST), Hong Kong, China  
   Advisor: [Prof. Junxian He](https://jxhe.github.io/)
 
-- **B.Eng.** (2020 - 2024)  
-  Shanghai Jiao Tong University (SJTU)  
-  Zhiyuan College | **Zhiyuan Honor Scholarship** recipient
+- **B.Eng.** (2020 – 2024)  
+  Shanghai Jiao Tong University (SJTU), Shanghai, China  
+  Zhiyuan College | Awarded the **Zhiyuan Honor Scholarship**
 
 ## Research Experience
 
-- **Research Intern**, [MINIMAX](https://www.minimax.com/) (February 2025 - Present)
-- **Research Intern**, Tencent WXG (June 2024 - September 2024)  
+- **Research Intern**, [MINIMAX](https://www.minimax.com/) (February 2025 – Present)
+- **Research Intern**, Tencent WXG (June 2024 – September 2024)  
   Mentor: Zifei Shan
-- **Research Intern**, [Shanghai AI Lab](https://www.shlab.org.cn/) (June 2023 - December 2023)  
+- **Research Intern**, [Shanghai AI Lab](https://www.shlab.org.cn/) (June 2023 – December 2023)  
   Mentor: Prof. Yu Cheng
 
-## Publications
+## Selected Publications
+
+(*: equal contribution or co-first author)
 
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**  
    **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He  
@@ -45,11 +47,11 @@ My research focuses on **Natural Language Processing** and **Machine Learning**,
 
 2. **On the Perception Bottleneck of VLMs for Chart Understanding**  
    **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He  
-   *Preprint, 2025* | [Code: Vision4Chart](https://github.com/Vicent0205/Vision4Chart)
+   *Preprint, 2025* | [[Code: Vision4Chart]](https://github.com/Vicent0205/Vision4Chart)
 
 3. **On the Universal Truthfulness Hyperplane Inside LLMs**  
    **Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He  
-   *EMNLP 2024* | [Code](https://github.com/Vicent0205/Universal_Truthfulness_Hyperplane)
+   *EMNLP 2024* | [[Code]](https://github.com/Vicent0205/Universal_Truthfulness_Hyperplane)
 
 4. **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**  
    Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He  
