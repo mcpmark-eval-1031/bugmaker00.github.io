@@ -3,7 +3,7 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
+# `jekyll serve -l -H localhost`. If you change this file, please restart the
 # server process.
 
 # Basic Site Settings
@@ -15,7 +15,7 @@ name                     : &name "Junteng Liu"
 description              : &description "Junteng Liu's academic homepage — PhD candidate at HKUST NLP Group, researching LLM Reasoning, Hallucination in VLMs, and LLM Truthfulness & Interpretability."
 url                      : https://bugmaker00.github.io # The base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "bugmaker00/bugmaker00.github.io"
+repository               : "mcpmark-eval-1031/bugmaker00.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
