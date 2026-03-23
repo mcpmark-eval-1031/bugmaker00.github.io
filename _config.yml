@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Junteng Liu"
 title_separator          : "-"
 name                     : &name "Junteng Liu"
-description              : &description "Junteng Liu's academic homepage — PhD candidate at HKUST NLP Group, researching LLM Reasoning, Hallucination in VLMs, and LLM Truthfulness & Interpretability."
+description              : &description "Junteng Liu's academic portfolio"
 url                      : https://bugmaker00.github.io # The base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mcpmark-eval-1031/bugmaker00.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Junteng Liu"
   pronouns         : "he/him"
-  bio              : "PhD candidate at HKUST NLP Group, advised by Prof. Junxian He. Research: LLM Reasoning & RL, Hallucination in VLMs, LLM Truthfulness & Interpretability."
+  bio              : "First-year PhD candidate at HKUST NLP Group"
   location         : "Hong Kong, China"
   employer         : "Hong Kong University of Science and Technology"
   uri              : # URL
@@ -34,7 +34,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # URL
@@ -150,7 +150,7 @@ social:
   type                   : Person
   name                   : Junteng Liu
   links:
-    - "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
+    - "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ"
     - "https://github.com/Vicent0205"
     - "https://x.com/junteng88716710"
 
