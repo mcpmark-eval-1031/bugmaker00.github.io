@@ -5,9 +5,9 @@ category: conferences
 permalink: /publication/2025-02-01-synlogic-synthesizing-verifiable-reasoning
 excerpt: 'SynLogic is a scalable framework for synthesizing verifiable reasoning data to train LLMs on logical reasoning tasks via reinforcement learning from verifiable rewards (RLVR), generalizing to mathematical and scientific reasoning benchmarks.'
 date: 2025-02-01
-venue: 'arXiv preprint (2025)'
+venue: 'Advances in Neural Information Processing Systems (NeurIPS 2025)'
 paperurl: 'https://arxiv.org/abs/2505.19641'
-citation: 'Junteng Liu, et al. (2025). &quot;SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond.&quot; <i>arXiv preprint</i> (2025).'
+citation: 'Junteng Liu, et al. (2025). &quot;SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond.&quot; <i>Advances in Neural Information Processing Systems (NeurIPS 2025)</i>.'
 ---
 
 We present SynLogic, a scalable framework for synthesizing verifiable reasoning data to train large
@@ -19,4 +19,4 @@ scientific reasoning benchmarks.
 
 [View paper on arXiv](https://arxiv.org/abs/2505.19641)
 
-Recommended citation: Junteng Liu, et al. (2025). "SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond." <i>arXiv preprint</i> (2025).
+Recommended citation: Junteng Liu, et al. (2025). "SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond." <i>Advances in Neural Information Processing Systems (NeurIPS 2025)</i>.
